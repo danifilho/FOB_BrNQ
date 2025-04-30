@@ -1,0 +1,9 @@
+name: quinone_docking
+channels: [conda-forge, bioconda, defaults]
+dependencies:
+  - python=3.11
+  - openbabel
+  - mgltools      # AutoDockTools scripts
+  - autodock-vina
+  - pdb-tools
+  - plip
