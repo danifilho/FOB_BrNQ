@@ -4,3 +4,5 @@ BrNQH_rad      Brc1ccc2cc(=O)c(c[nH]2)c1O          /* add 1 H to C-3 carbonyl, r
 BrNQH2         Brc1ccc2cc(O)c(c[nH]2)c1O           /* both carbonyls reduced to OH */
 GSH            NC(CCC(=O)N[C@@H](CS)C(=O)O)C(=O)O  /* reference zwitterion */
 BrNQ_SG        Brc1ccc2cc(=O)c(c[nH]2)c1SCC(C(=O)N[C@@H](CCC(=O)O)C(=O)O)NC(=O)CCC(=O)O
+
+#The BrNQ-SG SMILES comes from the LC-MS-verified nucleophilic-substitution product reported by Graciani & Ximenes (m/z = 462)
